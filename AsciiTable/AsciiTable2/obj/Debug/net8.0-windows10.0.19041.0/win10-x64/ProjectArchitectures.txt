@@ -1,0 +1,1 @@
+E:\git\maui\AsciiTable\AsciiTable2\AsciiTable.csproj;x64
