@@ -1,0 +1,225 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\git\\maui\\MVVMFruits\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1573AD19-27E5-4A0B-B652-AA9030F9BBBC}|MVVMFruits\\MVVMFruits.csproj|E:\\git\\maui\\MVVMFruits\\mvvmfruits\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1573AD19-27E5-4A0B-B652-AA9030F9BBBC}|MVVMFruits\\MVVMFruits.csproj|solutionrelative:mvvmfruits\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1573AD19-27E5-4A0B-B652-AA9030F9BBBC}|MVVMFruits\\MVVMFruits.csproj|E:\\git\\maui\\MVVMFruits\\mvvmfruits\\mvvmfruits.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{1573AD19-27E5-4A0B-B652-AA9030F9BBBC}|MVVMFruits\\MVVMFruits.csproj|solutionrelative:mvvmfruits\\mvvmfruits.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1573AD19-27E5-4A0B-B652-AA9030F9BBBC}|MVVMFruits\\MVVMFruits.csproj|E:\\git\\maui\\MVVMFruits\\mvvmfruits\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1573AD19-27E5-4A0B-B652-AA9030F9BBBC}|MVVMFruits\\MVVMFruits.csproj|solutionrelative:mvvmfruits\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1573AD19-27E5-4A0B-B652-AA9030F9BBBC}|MVVMFruits\\MVVMFruits.csproj|e:\\git\\maui\\mvvmfruits\\mvvmfruits\\viewmodel\\detailviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1573AD19-27E5-4A0B-B652-AA9030F9BBBC}|MVVMFruits\\MVVMFruits.csproj|solutionrelative:mvvmfruits\\viewmodel\\detailviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1573AD19-27E5-4A0B-B652-AA9030F9BBBC}|MVVMFruits\\MVVMFruits.csproj|E:\\git\\maui\\MVVMFruits\\mvvmfruits\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1573AD19-27E5-4A0B-B652-AA9030F9BBBC}|MVVMFruits\\MVVMFruits.csproj|solutionrelative:mvvmfruits\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1573AD19-27E5-4A0B-B652-AA9030F9BBBC}|MVVMFruits\\MVVMFruits.csproj|E:\\git\\maui\\MVVMFruits\\mvvmfruits\\detailpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1573AD19-27E5-4A0B-B652-AA9030F9BBBC}|MVVMFruits\\MVVMFruits.csproj|solutionrelative:mvvmfruits\\detailpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1573AD19-27E5-4A0B-B652-AA9030F9BBBC}|MVVMFruits\\MVVMFruits.csproj|E:\\git\\maui\\MVVMFruits\\mvvmfruits\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1573AD19-27E5-4A0B-B652-AA9030F9BBBC}|MVVMFruits\\MVVMFruits.csproj|solutionrelative:mvvmfruits\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1573AD19-27E5-4A0B-B652-AA9030F9BBBC}|MVVMFruits\\MVVMFruits.csproj|E:\\git\\maui\\MVVMFruits\\mvvmfruits\\detailpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1573AD19-27E5-4A0B-B652-AA9030F9BBBC}|MVVMFruits\\MVVMFruits.csproj|solutionrelative:mvvmfruits\\detailpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1573AD19-27E5-4A0B-B652-AA9030F9BBBC}|MVVMFruits\\MVVMFruits.csproj|E:\\git\\maui\\MVVMFruits\\mvvmfruits\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1573AD19-27E5-4A0B-B652-AA9030F9BBBC}|MVVMFruits\\MVVMFruits.csproj|solutionrelative:mvvmfruits\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1573AD19-27E5-4A0B-B652-AA9030F9BBBC}|MVVMFruits\\MVVMFruits.csproj|E:\\git\\maui\\MVVMFruits\\mvvmfruits\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1573AD19-27E5-4A0B-B652-AA9030F9BBBC}|MVVMFruits\\MVVMFruits.csproj|solutionrelative:mvvmfruits\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1573AD19-27E5-4A0B-B652-AA9030F9BBBC}|MVVMFruits\\MVVMFruits.csproj|E:\\git\\maui\\MVVMFruits\\mvvmfruits\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1573AD19-27E5-4A0B-B652-AA9030F9BBBC}|MVVMFruits\\MVVMFruits.csproj|solutionrelative:mvvmfruits\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 290,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ce0010b1-93a1-33bb-8d9c-bcc1bf6c4873}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DetailViewModel.cs",
+              "DocumentMoniker": "E:\\git\\maui\\MVVMFruits\\MVVMFruits\\ViewModel\\DetailViewModel.cs",
+              "RelativeDocumentMoniker": "MVVMFruits\\ViewModel\\DetailViewModel.cs",
+              "ToolTip": "E:\\git\\maui\\MVVMFruits\\MVVMFruits\\ViewModel\\DetailViewModel.cs",
+              "RelativeToolTip": "MVVMFruits\\ViewModel\\DetailViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T20:26:48.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "E:\\git\\maui\\MVVMFruits\\MVVMFruits\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "MVVMFruits\\MauiProgram.cs",
+              "ToolTip": "E:\\git\\maui\\MVVMFruits\\MVVMFruits\\MauiProgram.cs",
+              "RelativeToolTip": "MVVMFruits\\MauiProgram.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T21:10:54.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "E:\\git\\maui\\MVVMFruits\\MVVMFruits\\ViewModel\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "MVVMFruits\\ViewModel\\MainViewModel.cs",
+              "ToolTip": "E:\\git\\maui\\MVVMFruits\\MVVMFruits\\ViewModel\\MainViewModel.cs",
+              "RelativeToolTip": "MVVMFruits\\ViewModel\\MainViewModel.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwCEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T20:15:10.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DetailPage.xaml.cs",
+              "DocumentMoniker": "E:\\git\\maui\\MVVMFruits\\MVVMFruits\\DetailPage.xaml.cs",
+              "RelativeDocumentMoniker": "MVVMFruits\\DetailPage.xaml.cs",
+              "ToolTip": "E:\\git\\maui\\MVVMFruits\\MVVMFruits\\DetailPage.xaml.cs",
+              "RelativeToolTip": "MVVMFruits\\DetailPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T20:31:04.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "E:\\git\\maui\\MVVMFruits\\MVVMFruits\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "MVVMFruits\\MainPage.xaml.cs",
+              "ToolTip": "E:\\git\\maui\\MVVMFruits\\MVVMFruits\\MainPage.xaml.cs",
+              "RelativeToolTip": "MVVMFruits\\MainPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T20:07:40.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "E:\\git\\maui\\MVVMFruits\\MVVMFruits\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MVVMFruits\\MainPage.xaml",
+              "ToolTip": "E:\\git\\maui\\MVVMFruits\\MVVMFruits\\MainPage.xaml",
+              "RelativeToolTip": "MVVMFruits\\MainPage.xaml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAABIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-02T20:08:07.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MVVMFruits",
+              "DocumentMoniker": "E:\\git\\maui\\MVVMFruits\\MVVMFruits\\MVVMFruits.csproj",
+              "RelativeDocumentMoniker": "MVVMFruits\\MVVMFruits.csproj",
+              "ToolTip": "E:\\git\\maui\\MVVMFruits\\MVVMFruits\\MVVMFruits.csproj",
+              "RelativeToolTip": "MVVMFruits\\MVVMFruits.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-03T20:29:34.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DetailPage.xaml",
+              "DocumentMoniker": "E:\\git\\maui\\MVVMFruits\\MVVMFruits\\DetailPage.xaml",
+              "RelativeDocumentMoniker": "MVVMFruits\\DetailPage.xaml",
+              "ToolTip": "E:\\git\\maui\\MVVMFruits\\MVVMFruits\\DetailPage.xaml",
+              "RelativeToolTip": "MVVMFruits\\DetailPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-05T20:25:20.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "E:\\git\\maui\\MVVMFruits\\MVVMFruits\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "MVVMFruits\\AppShell.xaml.cs",
+              "ToolTip": "E:\\git\\maui\\MVVMFruits\\MVVMFruits\\AppShell.xaml.cs",
+              "RelativeToolTip": "MVVMFruits\\AppShell.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T15:25:15.874Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "E:\\git\\maui\\MVVMFruits\\MVVMFruits\\AppShell.xaml",
+              "RelativeDocumentMoniker": "MVVMFruits\\AppShell.xaml",
+              "ToolTip": "E:\\git\\maui\\MVVMFruits\\MVVMFruits\\AppShell.xaml",
+              "RelativeToolTip": "MVVMFruits\\AppShell.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-04T15:24:59.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "E:\\git\\maui\\MVVMFruits\\MVVMFruits\\App.xaml.cs",
+              "RelativeDocumentMoniker": "MVVMFruits\\App.xaml.cs",
+              "ToolTip": "E:\\git\\maui\\MVVMFruits\\MVVMFruits\\App.xaml.cs",
+              "RelativeToolTip": "MVVMFruits\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T15:44:41.017Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

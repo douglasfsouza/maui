@@ -1,0 +1,1 @@
+E:\git\maui\MVVMFruits\MVVMFruits\MVVMFruits.csproj;x64
