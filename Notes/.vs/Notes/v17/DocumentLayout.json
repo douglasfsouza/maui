@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\git\\maui\\Notes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B41B2714-6F1A-402D-98C1-391C52A24261}|Notes\\Notes.csproj|c:\\git\\maui\\notes\\notes\\models\\allnotes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B41B2714-6F1A-402D-98C1-391C52A24261}|Notes\\Notes.csproj|solutionrelative:notes\\models\\allnotes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B41B2714-6F1A-402D-98C1-391C52A24261}|Notes\\Notes.csproj|c:\\git\\maui\\notes\\notes\\views\\allnotespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B41B2714-6F1A-402D-98C1-391C52A24261}|Notes\\Notes.csproj|solutionrelative:notes\\views\\allnotespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B41B2714-6F1A-402D-98C1-391C52A24261}|Notes\\Notes.csproj|c:\\git\\maui\\notes\\notes\\models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B41B2714-6F1A-402D-98C1-391C52A24261}|Notes\\Notes.csproj|solutionrelative:notes\\models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B41B2714-6F1A-402D-98C1-391C52A24261}|Notes\\Notes.csproj|c:\\git\\maui\\notes\\notes\\views\\notepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B41B2714-6F1A-402D-98C1-391C52A24261}|Notes\\Notes.csproj|solutionrelative:notes\\views\\notepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B41B2714-6F1A-402D-98C1-391C52A24261}|Notes\\Notes.csproj|c:\\git\\maui\\notes\\notes\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B41B2714-6F1A-402D-98C1-391C52A24261}|Notes\\Notes.csproj|solutionrelative:notes\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B41B2714-6F1A-402D-98C1-391C52A24261}|Notes\\Notes.csproj|c:\\git\\maui\\notes\\notes\\views\\allnotespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B41B2714-6F1A-402D-98C1-391C52A24261}|Notes\\Notes.csproj|solutionrelative:notes\\views\\allnotespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B41B2714-6F1A-402D-98C1-391C52A24261}|Notes\\Notes.csproj|c:\\git\\maui\\notes\\notes\\views\\notepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B41B2714-6F1A-402D-98C1-391C52A24261}|Notes\\Notes.csproj|solutionrelative:notes\\views\\notepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AllNotes.cs",
+              "DocumentMoniker": "c:\\git\\maui\\Notes\\Notes\\Models\\AllNotes.cs",
+              "RelativeDocumentMoniker": "Notes\\Models\\AllNotes.cs",
+              "ToolTip": "c:\\git\\maui\\Notes\\Notes\\Models\\AllNotes.cs",
+              "RelativeToolTip": "Notes\\Models\\AllNotes.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAMwCcAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T21:07:55.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Note.cs",
+              "DocumentMoniker": "c:\\git\\maui\\Notes\\Notes\\Models\\Note.cs",
+              "RelativeDocumentMoniker": "Notes\\Models\\Note.cs",
+              "ToolTip": "c:\\git\\maui\\Notes\\Notes\\Models\\Note.cs",
+              "RelativeToolTip": "Notes\\Models\\Note.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T21:06:19.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AllNotesPage.xaml",
+              "DocumentMoniker": "c:\\git\\maui\\Notes\\Notes\\Views\\AllNotesPage.xaml",
+              "RelativeDocumentMoniker": "Notes\\Views\\AllNotesPage.xaml",
+              "ToolTip": "c:\\git\\maui\\Notes\\Notes\\Views\\AllNotesPage.xaml",
+              "RelativeToolTip": "Notes\\Views\\AllNotesPage.xaml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABoAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-26T18:22:22.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\git\\maui\\Notes\\Notes\\AppShell.xaml",
+              "RelativeDocumentMoniker": "Notes\\AppShell.xaml",
+              "ToolTip": "C:\\git\\maui\\Notes\\Notes\\AppShell.xaml",
+              "RelativeToolTip": "Notes\\AppShell.xaml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-25T01:55:07.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AllNotesPage.xaml.cs",
+              "DocumentMoniker": "C:\\git\\maui\\Notes\\Notes\\Views\\AllNotesPage.xaml.cs",
+              "RelativeDocumentMoniker": "Notes\\Views\\AllNotesPage.xaml.cs",
+              "ToolTip": "C:\\git\\maui\\Notes\\Notes\\Views\\AllNotesPage.xaml.cs",
+              "RelativeToolTip": "Notes\\Views\\AllNotesPage.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T21:01:57.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NotePage.xaml.cs",
+              "DocumentMoniker": "C:\\git\\maui\\Notes\\Notes\\Views\\NotePage.xaml.cs",
+              "RelativeDocumentMoniker": "Notes\\Views\\NotePage.xaml.cs",
+              "ToolTip": "C:\\git\\maui\\Notes\\Notes\\Views\\NotePage.xaml.cs",
+              "RelativeToolTip": "Notes\\Views\\NotePage.xaml.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAUwEMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T15:13:36.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NotePage.xaml",
+              "DocumentMoniker": "C:\\git\\maui\\Notes\\Notes\\Views\\NotePage.xaml",
+              "RelativeDocumentMoniker": "Notes\\Views\\NotePage.xaml",
+              "ToolTip": "C:\\git\\maui\\Notes\\Notes\\Views\\NotePage.xaml",
+              "RelativeToolTip": "Notes\\Views\\NotePage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-21T20:58:05.379Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

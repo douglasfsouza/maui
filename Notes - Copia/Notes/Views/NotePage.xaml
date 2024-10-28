@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:models="clr-namespace:Notes.Models"
+             x:Class="Notes.Views.NotePage"
+             Title="NotePage">
+    
+    <VerticalStackLayout Spacing="10" Margin="10">
+        <Editor x:Name="edtNotes" 
+                Placeholder="Type your note here" 
+                HeightRequest="550"                
+                Text="{Binding NoteText}" />
+     
+        <Grid RowSpacing="10" ColumnSpacing="4" Padding="10" ColumnDefinitions="*, *" RowDefinitions="*" >        
+            <Button x:Name="btnSave" Text="Save" Clicked="btnSave_Clicked" />
+            <Button x:Name="btnDelete" Text="Delete" Clicked="btnDelete_Clicked" Grid.Column="1" />
+
+        </Grid>
+
+    </VerticalStackLayout>
+
+</ContentPage>
