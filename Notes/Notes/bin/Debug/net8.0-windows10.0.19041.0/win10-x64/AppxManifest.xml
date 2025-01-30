@@ -7,7 +7,7 @@
 
     Para obter mais informações sobre arquivos de pacote de manifesto consulte http://go.microsoft.com/fwlink/?LinkID=241727
   -->
-  <Identity Name="com.companyname.notes" Publisher="CN=User Name" Version="1.0.0.1" ProcessorArchitecture="x64" />
+  <Identity Name="com.electrasystems.simplenotes" Publisher="CN=User Name" Version="1.0.0.1" ProcessorArchitecture="x64" />
   <mp:PhoneIdentity PhoneProductId="1D26C1E9-5A1A-4FEF-AAB3-AA6CD1AC64F6" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
   <Properties>
     <DisplayName>Notes</DisplayName>
@@ -23,7 +23,7 @@
     <Resource Language="EN-US" />
   </Resources>
   <Applications>
-    <Application Id="App" Executable="Notes.exe" EntryPoint="Windows.FullTrustApplication">
+    <Application Id="App" Executable="SimpleNotes.exe" EntryPoint="Windows.FullTrustApplication">
       <uap:VisualElements DisplayName="Notes" Description="Notes" Square150x150Logo="appiconMediumTile.png" Square44x44Logo="appiconLogo.png" BackgroundColor="transparent">
         <uap:DefaultTile Square71x71Logo="appiconSmallTile.png" Wide310x150Logo="appiconWideTile.png" Square310x310Logo="appiconLargeTile.png" ShortName="Notes">
           <uap:ShowNameOnTiles>

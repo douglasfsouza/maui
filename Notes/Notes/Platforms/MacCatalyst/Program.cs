@@ -1,7 +1,7 @@
 ﻿using ObjCRuntime;
 using UIKit;
 
-namespace Notes
+namespace SimpleNotes
 {
     public class Program
     {

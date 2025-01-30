@@ -1043,3 +1043,4 @@ c:\git\Maui\Notes\Notes\obj\Debug\net8.0-android\android\compressed_assemblies.a
 c:\git\Maui\Notes\Notes\obj\Debug\net8.0-android\android\marshal_methods.arm64-v8a.o
 c:\git\Maui\Notes\Notes\obj\Debug\net8.0-android\android\jni_remap.arm64-v8a.o
 c:\git\Maui\Notes\Notes\obj\Debug\net8.0-android\app_shared_libraries\arm64-v8a\libxamarin-app.so
+c:\git\Maui\Notes\Notes\obj\Debug\net8.0-android\resizetizer\r\drawable\dev_icon.jpg

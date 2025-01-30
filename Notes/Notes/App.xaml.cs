@@ -1,4 +1,4 @@
-﻿namespace Notes
+﻿namespace SimpleNotes
 {
     public partial class App : Application
     {

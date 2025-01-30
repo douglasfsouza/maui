@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using static System.Net.WebRequestMethods;
 
-namespace Notes.Models
+namespace SimpleNotes.Models
 {
     public class About
     {
@@ -14,6 +14,7 @@ namespace Notes.Models
         public string Description { get; set; }
         public string Message { get; set; }
         public string PrivacyURL => "https://electrasystems.netlify.app/policy";
+        public string TermsURL => "https://electrasystems.netlify.app/policy";
 
         public About()
         {

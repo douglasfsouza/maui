@@ -1,7 +1,7 @@
 using Microsoft.Maui.Storage;
-using Notes.Models;
+using SimpleNotes.Models;
 
-namespace Notes.Views;
+namespace SimpleNotes.Views;
 
 [QueryProperty(nameof(ItemId), nameof(ItemId))]
 

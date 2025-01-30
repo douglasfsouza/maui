@@ -1,36 +1,52 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="Notes.Views.AllNotesPage"
-             Title="AllNotes">
+             x:Class="SimpleNotes.Views.AllNotesPage"
+             Title="Notes"
+             BackgroundColor="Wheat">    
+
     <ContentPage.ToolbarItems>
         <ToolbarItem Text="Add"
-                     x:Name="itemAdd"
-                     IconImageSource="{FontImageSource Glyph='+', Color=Blue, Size=22}"
-                     Clicked="itemAdd_Clicked"/>
+                     x:Name="itemAdd"                    
+                     IconImageSource="{FontImageSource Glyph='+', Color=Black, Size=30}"
+                     Clicked="itemAdd_Clicked"/>        
     </ContentPage.ToolbarItems>
-    <CollectionView x:Name="notesCollection"
-                    ItemsSource="{Binding Notes}"
-                    Margin="20"
-                    SelectionMode="Single"
-                    SelectionChanged="notesCollection_SelectionChanged">
-        <CollectionView.ItemsLayout>
-            <LinearItemsLayout Orientation="Vertical"
-                               ItemSpacing="10">
+    
+    <VerticalStackLayout>
+
+        <SearchBar  Placeholder="Search" 
+                    Text="{Binding SearchText}"
+                    SearchCommand="{Binding FilterCommand}" />  
+
+        <CollectionView x:Name="notesCollection"
+                ItemsSource="{Binding FilteredNotes}"
+                HeightRequest="600"
+                Margin="20"
+                HorizontalOptions="Start"                       
+                SelectionMode="Single"
+                VerticalScrollBarVisibility="Always"        
+                HorizontalScrollBarVisibility="Always"
+                BackgroundColor="WhiteSmoke"
+                ItemsUpdatingScrollMode="KeepLastItemInView"
+                SelectionChanged="notesCollection_SelectionChanged">     
+                        
+            <CollectionView.ItemTemplate >
                 
-            </LinearItemsLayout>
-        </CollectionView.ItemsLayout>
-        
-        <CollectionView.ItemTemplate>
-            <DataTemplate>
-                <StackLayout>
-                    <Label Text="{Binding Name}" FontSize="22" />                    
-                    <Label Text="{Binding Date}" FontSize="10" TextColor="BlueViolet" />
+                <DataTemplate>                                                            
+                    <StackLayout Padding="10">                    
+                        
+                        <Label Text="{Binding Name}" FontSize="22" />
+                        <Label Text="{Binding Date}" FontSize="10" TextColor="Blue" />
 
-                </StackLayout>
-            </DataTemplate>
+                    </StackLayout>
+                </DataTemplate>
 
-        </CollectionView.ItemTemplate>
+            </CollectionView.ItemTemplate>
 
-    </CollectionView>
+        </CollectionView>
+
+
+    </VerticalStackLayout>       
+
+    
 </ContentPage>

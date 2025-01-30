@@ -12,7 +12,7 @@ Na solução, click com botão direito no projeto e abrir no terminal:
 	 -keysize define o tamanho da chave
 	 -validity indica a quantidade de dias para a validade da chave
 	 ex: keytool -genkeypair -v -keystore AsciiTable.keystore -alias AsciiTable -keyalg RSA -keysize 2048 -validity 10000
-	     vai pedir para criar uma senha: @sciiTableDGS
+	     vai pedir para criar uma senha: @sciiTableDGS, $impleNotesDGS
 Publicar:
    Abrir as propriedades do projeto
        Android

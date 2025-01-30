@@ -14,11 +14,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AsciiTable")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("5.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("5.0+efe076e936630e9aebf370ac6cb54685adfdc170")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("5.0+daa7d70a1d99728f5dddbebcb69b525953bde376")]
 [assembly: System.Reflection.AssemblyProductAttribute("AsciiTable")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AsciiTable")]
 [assembly: System.Reflection.AssemblyVersionAttribute("5.0.0.0")]
-[assembly: System.Runtime.Versioning.TargetPlatformAttribute("MacCatalyst17.2")]
+[assembly: System.Runtime.Versioning.TargetPlatformAttribute("MacCatalyst18.0")]
 [assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("MacCatalyst13.1")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
