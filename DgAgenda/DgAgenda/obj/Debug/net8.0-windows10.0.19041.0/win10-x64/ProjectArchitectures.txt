@@ -1,0 +1,1 @@
+C:\git\maui\DgAgenda\DgAgenda\DgAgenda.csproj;x64
