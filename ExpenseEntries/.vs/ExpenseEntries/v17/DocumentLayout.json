@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\git\\maui\\ExpenseEntries\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6AB565AE-D993-4280-8692-C4AB43DA0755}|ExpenseEntries\\ExpenseEntries.csproj|c:\\git\\maui\\expenseentries\\expenseentries\\mvvm\\views\\despesasview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AB565AE-D993-4280-8692-C4AB43DA0755}|ExpenseEntries\\ExpenseEntries.csproj|solutionrelative:expenseentries\\mvvm\\views\\despesasview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\douglas.fsouza\\.nuget\\packages\\microsoft.maui.resizetizer\\8.0.100\\buildTransitive\\Microsoft.Maui.Resizetizer.After.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AB565AE-D993-4280-8692-C4AB43DA0755}|ExpenseEntries\\ExpenseEntries.csproj|c:\\git\\maui\\expenseentries\\expenseentries\\mvvm\\viewmodels\\despesaviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AB565AE-D993-4280-8692-C4AB43DA0755}|ExpenseEntries\\ExpenseEntries.csproj|solutionrelative:expenseentries\\mvvm\\viewmodels\\despesaviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AB565AE-D993-4280-8692-C4AB43DA0755}|ExpenseEntries\\ExpenseEntries.csproj|c:\\git\\maui\\expenseentries\\expenseentries\\mvvm\\views\\despesasview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6AB565AE-D993-4280-8692-C4AB43DA0755}|ExpenseEntries\\ExpenseEntries.csproj|solutionrelative:expenseentries\\mvvm\\views\\despesasview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AB565AE-D993-4280-8692-C4AB43DA0755}|ExpenseEntries\\ExpenseEntries.csproj|c:\\git\\maui\\expenseentries\\expenseentries\\services\\despesaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AB565AE-D993-4280-8692-C4AB43DA0755}|ExpenseEntries\\ExpenseEntries.csproj|solutionrelative:expenseentries\\services\\despesaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AB565AE-D993-4280-8692-C4AB43DA0755}|ExpenseEntries\\ExpenseEntries.csproj|c:\\git\\maui\\expenseentries\\expenseentries\\mvvm\\models\\despesa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AB565AE-D993-4280-8692-C4AB43DA0755}|ExpenseEntries\\ExpenseEntries.csproj|solutionrelative:expenseentries\\mvvm\\models\\despesa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AB565AE-D993-4280-8692-C4AB43DA0755}|ExpenseEntries\\ExpenseEntries.csproj|c:\\git\\maui\\expenseentries\\expenseentries\\services\\idespesaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AB565AE-D993-4280-8692-C4AB43DA0755}|ExpenseEntries\\ExpenseEntries.csproj|solutionrelative:expenseentries\\services\\idespesaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Microsoft.Maui.Resizetizer.After.targets",
+              "DocumentMoniker": "C:\\Users\\douglas.fsouza\\.nuget\\packages\\microsoft.maui.resizetizer\\8.0.100\\buildTransitive\\Microsoft.Maui.Resizetizer.After.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\Users\\douglas.fsouza\\.nuget\\packages\\microsoft.maui.resizetizer\\8.0.100\\buildTransitive\\Microsoft.Maui.Resizetizer.After.targets",
+              "ToolTip": "C:\\Users\\douglas.fsouza\\.nuget\\packages\\microsoft.maui.resizetizer\\8.0.100\\buildTransitive\\Microsoft.Maui.Resizetizer.After.targets",
+              "RelativeToolTip": "..\\..\\..\\Users\\douglas.fsouza\\.nuget\\packages\\microsoft.maui.resizetizer\\8.0.100\\buildTransitive\\Microsoft.Maui.Resizetizer.After.targets",
+              "ViewState": "AgIAAGoCAAAAAAAAAIAwwHYCAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-02-18T22:37:05.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DespesasView.xaml",
+              "DocumentMoniker": "C:\\git\\maui\\ExpenseEntries\\ExpenseEntries\\MVVM\\Views\\DespesasView.xaml",
+              "RelativeDocumentMoniker": "ExpenseEntries\\MVVM\\Views\\DespesasView.xaml",
+              "ToolTip": "C:\\git\\maui\\ExpenseEntries\\ExpenseEntries\\MVVM\\Views\\DespesasView.xaml",
+              "RelativeToolTip": "ExpenseEntries\\MVVM\\Views\\DespesasView.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAB9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-05T00:29:41.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DespesaViewModel.cs",
+              "DocumentMoniker": "C:\\git\\maui\\ExpenseEntries\\ExpenseEntries\\MVVM\\ViewModels\\DespesaViewModel.cs",
+              "RelativeDocumentMoniker": "ExpenseEntries\\MVVM\\ViewModels\\DespesaViewModel.cs",
+              "ToolTip": "C:\\git\\maui\\ExpenseEntries\\ExpenseEntries\\MVVM\\ViewModels\\DespesaViewModel.cs",
+              "RelativeToolTip": "ExpenseEntries\\MVVM\\ViewModels\\DespesaViewModel.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAwwFgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T00:06:05.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Despesa.cs",
+              "DocumentMoniker": "C:\\git\\maui\\ExpenseEntries\\ExpenseEntries\\MVVM\\Models\\Despesa.cs",
+              "RelativeDocumentMoniker": "ExpenseEntries\\MVVM\\Models\\Despesa.cs",
+              "ToolTip": "C:\\git\\maui\\ExpenseEntries\\ExpenseEntries\\MVVM\\Models\\Despesa.cs",
+              "RelativeToolTip": "ExpenseEntries\\MVVM\\Models\\Despesa.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAUwGsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T23:54:52.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DespesasView.xaml.cs",
+              "DocumentMoniker": "C:\\git\\maui\\ExpenseEntries\\ExpenseEntries\\MVVM\\Views\\DespesasView.xaml.cs",
+              "RelativeDocumentMoniker": "ExpenseEntries\\MVVM\\Views\\DespesasView.xaml.cs",
+              "ToolTip": "C:\\git\\maui\\ExpenseEntries\\ExpenseEntries\\MVVM\\Views\\DespesasView.xaml.cs",
+              "RelativeToolTip": "ExpenseEntries\\MVVM\\Views\\DespesasView.xaml.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAIA9wCAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T00:39:46.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IDespesaService.cs",
+              "DocumentMoniker": "C:\\git\\maui\\ExpenseEntries\\ExpenseEntries\\Services\\IDespesaService.cs",
+              "RelativeDocumentMoniker": "ExpenseEntries\\Services\\IDespesaService.cs",
+              "ToolTip": "C:\\git\\maui\\ExpenseEntries\\ExpenseEntries\\Services\\IDespesaService.cs",
+              "RelativeToolTip": "ExpenseEntries\\Services\\IDespesaService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAowA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T21:25:18.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DespesaService.cs",
+              "DocumentMoniker": "C:\\git\\maui\\ExpenseEntries\\ExpenseEntries\\Services\\DespesaService.cs",
+              "RelativeDocumentMoniker": "ExpenseEntries\\Services\\DespesaService.cs",
+              "ToolTip": "C:\\git\\maui\\ExpenseEntries\\ExpenseEntries\\Services\\DespesaService.cs",
+              "RelativeToolTip": "ExpenseEntries\\Services\\DespesaService.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAcwE4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T21:36:52.476Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 188,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ce0010b1-93a1-33bb-8d9c-bcc1bf6c4873}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

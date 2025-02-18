@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:ExpenseEntries.MVVM.ViewModels"
+             x:Class="ExpenseEntries.MVVM.Views.DespesasView"
+             Title="Monthly Expense Entries">
+    <ContentPage.ToolbarItems>
+        <ToolbarItem x:Name="tbFilterMonth" Text="Filter actual month" Order="Secondary" Command="{Binding FilterMonthCommand}"  />
+        <ToolbarItem Text="Privacy Policy" Order="Secondary" Clicked="ToolbarItem_Clicked" />
+        <ToolbarItem Text="Term of use" Order="Secondary" Clicked="ToolbarItem_Clicked_1" />
+        <ToolbarItem  x:Name="tbExit" Text="Exit" Order="Secondary" Clicked="tbExit_Clicked"/>
+    </ContentPage.ToolbarItems>
+    
+    <Grid Padding="1" RowSpacing="1" Margin="10" RowDefinitions=".06*, .103*, .14*, .01*, .90*, .01*" HorizontalOptions="Center" BackgroundColor="WhiteSmoke" >
+
+        <Grid Grid.Row="0" ColumnDefinitions=".20*, .20*, .20*, .20*" BackgroundColor="DarkGrey" >
+            <Label Text="Year:" FontSize="15" TextColor="Black" />
+            <Picker x:Name="entYear" Grid.Column="1" Title="Pick a year"
+                ItemsSource="{Binding Anos}"
+                ItemDisplayBinding="{Binding .}"
+                SelectedItem="{Binding DespesaAtual.Ano}"
+                FontSize="13"
+                TextColor="White"
+                FontAttributes="Bold"                    
+                />
+             
+            <Label Grid.Column="2" Text="Month:"  FontSize="15"/>
+            <Picker x:Name="picMes" Grid.Column="3" Title="Pick a month"
+                ItemsSource="{Binding Meses}"
+                ItemDisplayBinding="{Binding .}"
+                SelectedItem="{Binding DespesaAtual.Mes}"
+                FontSize="13"
+                TextColor="White"
+                FontAttributes="Bold"                    
+                />
+        </Grid>
+
+        <HorizontalStackLayout Grid.Row="1" Padding="5" Margin="1" HeightRequest="70" VerticalOptions="Start"  HorizontalOptions="StartAndExpand" Spacing="10" BackgroundColor="White" >
+            
+            <DatePicker x:Name="dpData" Date="{Binding DespesaAtual.Data}" FontSize="10" TextColor="Black" />
+            <Entry x:Name="txtDescricao" Text="{Binding DespesaAtual.Descricao, Mode=TwoWay}" Placeholder="Type the description" FontSize="10" TextColor="black"  Grid.Row="1" Grid.Column="0" />
+            
+            <Picker x:Name="picTipo" Title="Pick a type" FontSize="10" FontAttributes="Bold" TextColor="Black" Grid.Row="2" Grid.Column="0"
+                    ItemsSource="{Binding Tipos}"
+                    ItemDisplayBinding="{Binding .}"
+                    SelectedItem="{Binding DespesaAtual.TipoDescricao}"
+                    />
+
+            <Entry x:Name="txtValor" Text="{Binding DespesaAtual.VValor, Mode=TwoWay}" Placeholder="Type the amount"  FontSize="10" TextColor="black" HorizontalTextAlignment="End" Grid.Row="3" Grid.Column="0"/>
+        </HorizontalStackLayout>
+
+        <HorizontalStackLayout Grid.Row="2" Margin="5" Padding="20" HeightRequest="90" Spacing="10" HorizontalOptions="CenterAndExpand" VerticalOptions="Center" BackgroundColor="White" >
+            <Button Text="Add" Command="{Binding AddCommand}" FontAttributes="Bold" FontSize="10" MaximumHeightRequest="50" BackgroundColor="Grey" />
+            <Button Text="Update" Command="{Binding UpdateCommand}" FontAttributes="Bold" FontSize="10" MaximumHeightRequest="50" BackgroundColor="Grey"/>
+            <Button Text="Delete" Command="{Binding DeleteCommand}" FontAttributes="Bold" FontSize="10" MaximumHeightRequest="50" BackgroundColor="Grey" />
+            <Button Text="Filter" Command="{Binding DisplayCommand}" FontAttributes="Bold" FontSize="10" MaximumHeightRequest="50" BackgroundColor="Grey" />
+            <Button Text="Clean Filter" Command="{Binding CleanFilterCommand}" FontAttributes="Bold" FontSize="10" MaximumHeightRequest="50" BackgroundColor="Grey" />
+        </HorizontalStackLayout>
+
+        <Grid Grid.Row="3" ColumnSpacing="10" ColumnDefinitions=".20*, .20*, .20*, .20*" HeightRequest="20" BackgroundColor="Grey">
+            <Label Grid.Column="0" Text="Date" FontSize="10" TextColor="White" FontAttributes="Bold" />
+            <Label Grid.Column="1" Text="Description" FontSize="10" TextColor="White" FontAttributes="Bold" />
+            <Label Grid.Column="2" Text="Type" FontSize="10" TextColor="White" FontAttributes="Bold" />
+            <Label Grid.Column="3" Text="Amount" FontSize="10" TextColor="White" FontAttributes="Bold" HorizontalTextAlignment="End" />
+        </Grid>
+
+        <CollectionView 
+            Grid.Row="4" 
+            Margin="5" 
+            ItemsSource="{Binding Despesas}"
+            SelectedItem="{Binding DespesaAtual}"
+            SelectionMode="Single"            
+            VerticalOptions="StartAndExpand"
+            HorizontalOptions="CenterAndExpand"
+            HeightRequest="520"
+            WidthRequest="390"            
+            BackgroundColor="White"                
+            >
+
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <SwipeView>
+                        <SwipeView.LeftItems>
+                            <SwipeItems>
+                                <SwipeItem
+                                    BackgroundColor="Purple"
+                                    Command="{Binding Source={RelativeSource AncestorType={x:Type local:DespesaViewModel}}, Path=DeleteCommand}"
+                                    Text="Delete" />
+                            </SwipeItems>
+                        </SwipeView.LeftItems>
+                        <Grid ColumnSpacing="10" ColumnDefinitions=".20*, .20*, .20*, .20*" HeightRequest="20"  VerticalOptions="Center">
+                            <Label Text="{Binding VData}" FontSize="10" TextColor="Black" />
+                            <Label Grid.Column="1" Text="{Binding Descricao}" FontSize="10" TextColor="Black"  />
+                            <Label Grid.Column="2" Text="{Binding TipoDescricao}" FontSize="10" TextColor="Black"  />
+                            <Label Grid.Column="3" Text="{Binding VValor}" FontSize="10" TextColor="Black" HorizontalTextAlignment="End"  />
+                        </Grid>
+                    </SwipeView>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+
+        </CollectionView>
+
+        <Grid Grid.Row="5" ColumnSpacing="10" ColumnDefinitions=".20*, .20*, .20*, .20*" HeightRequest="20" BackgroundColor="White">
+            <Label Text="Total: " FontAttributes="Bold"/>
+            <Label x:Name="lblQtde" Grid.Column="1" Text="{Binding Qtde}" FontAttributes="Bold" />
+            <Label x:Name="lblTotal" Grid.Column="3" Text="{Binding Total}" FontAttributes="Bold" HorizontalOptions="End" />
+        </Grid>
+
+    </Grid>
+
+</ContentPage>
