@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\git\\maui\\Notes\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B41B2714-6F1A-402D-98C1-391C52A24261}|Notes\\SimpleNotes.csproj|c:\\git\\maui\\notes\\notes\\views\\allnotespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B41B2714-6F1A-402D-98C1-391C52A24261}|Notes\\SimpleNotes.csproj|solutionrelative:notes\\views\\allnotespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B41B2714-6F1A-402D-98C1-391C52A24261}|Notes\\SimpleNotes.csproj|c:\\git\\maui\\notes\\notes\\models\\allnotes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B41B2714-6F1A-402D-98C1-391C52A24261}|Notes\\SimpleNotes.csproj|solutionrelative:notes\\models\\allnotes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -95,10 +99,6 @@
       "RelativeMoniker": "D:0:0:{B41B2714-6F1A-402D-98C1-391C52A24261}|Notes\\SimpleNotes.csproj|solutionrelative:notes\\views\\notepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B41B2714-6F1A-402D-98C1-391C52A24261}|Notes\\SimpleNotes.csproj|c:\\git\\maui\\notes\\notes\\views\\allnotespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{B41B2714-6F1A-402D-98C1-391C52A24261}|Notes\\SimpleNotes.csproj|solutionrelative:notes\\views\\allnotespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B41B2714-6F1A-402D-98C1-391C52A24261}|Notes\\SimpleNotes.csproj|c:\\git\\maui\\notes\\notes\\views\\aboutpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B41B2714-6F1A-402D-98C1-391C52A24261}|Notes\\SimpleNotes.csproj|solutionrelative:notes\\views\\aboutpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -130,19 +130,6 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SimpleNotes.csproj",
-              "DocumentMoniker": "c:\\git\\Maui\\Notes\\Notes\\SimpleNotes.csproj",
-              "RelativeDocumentMoniker": "Notes\\SimpleNotes.csproj",
-              "ToolTip": "c:\\git\\Maui\\Notes\\Notes\\SimpleNotes.csproj",
-              "RelativeToolTip": "Notes\\SimpleNotes.csproj",
-              "ViewState": "AgIAABQAAAAAAAAAAAAcwB4AAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-14T23:12:40.444Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 24,
               "Title": "AboutPage.xaml.cs",
               "DocumentMoniker": "C:\\git\\maui\\Notes\\Notes\\Views\\AboutPage.xaml.cs",
@@ -155,19 +142,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "SimpleNotes",
-              "DocumentMoniker": "c:\\git\\Maui\\Notes\\Notes\\SimpleNotes.csproj",
+              "DocumentMoniker": "C:\\git\\maui\\Notes\\Notes\\SimpleNotes.csproj",
               "RelativeDocumentMoniker": "Notes\\SimpleNotes.csproj",
-              "ToolTip": "c:\\git\\Maui\\Notes\\Notes\\SimpleNotes.csproj",
+              "ToolTip": "C:\\git\\maui\\Notes\\Notes\\SimpleNotes.csproj",
               "RelativeToolTip": "Notes\\SimpleNotes.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-12T23:51:42.093Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-12T23:51:42.093Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\git\\maui\\Notes\\Notes\\Platforms\\Windows\\App.xaml",
               "RelativeDocumentMoniker": "Notes\\Platforms\\Windows\\App.xaml",
@@ -179,7 +165,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "AboutPage.xaml",
               "DocumentMoniker": "C:\\git\\maui\\Notes\\Notes\\Views\\AboutPage.xaml",
               "RelativeDocumentMoniker": "Notes\\Views\\AboutPage.xaml",
@@ -191,7 +177,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Note.cs",
               "DocumentMoniker": "C:\\git\\maui\\Notes\\Notes\\Models\\Note.cs",
               "RelativeDocumentMoniker": "Notes\\Models\\Note.cs",
@@ -199,12 +185,11 @@
               "RelativeToolTip": "Notes\\Models\\Note.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T21:06:19.559Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-26T21:06:19.559Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "AllNotes.cs",
               "DocumentMoniker": "C:\\git\\maui\\Notes\\Notes\\Models\\AllNotes.cs",
               "RelativeDocumentMoniker": "Notes\\Models\\AllNotes.cs",
@@ -217,19 +202,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 0,
               "Title": "AllNotesPage.xaml",
               "DocumentMoniker": "C:\\git\\maui\\Notes\\Notes\\Views\\AllNotesPage.xaml",
               "RelativeDocumentMoniker": "Notes\\Views\\AllNotesPage.xaml",
               "ToolTip": "C:\\git\\maui\\Notes\\Notes\\Views\\AllNotesPage.xaml",
               "RelativeToolTip": "Notes\\Views\\AllNotesPage.xaml",
-              "ViewState": "AgIAABEAAAAAAAAAAAAkwBQAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABQAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-26T18:22:22.406Z"
+              "WhenOpened": "2024-10-26T18:22:22.406Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 3,
+              "Title": "SimpleNotes.csproj",
+              "DocumentMoniker": "C:\\git\\maui\\Notes\\Notes\\SimpleNotes.csproj",
+              "RelativeDocumentMoniker": "Notes\\SimpleNotes.csproj",
+              "ToolTip": "C:\\git\\maui\\Notes\\Notes\\SimpleNotes.csproj",
+              "RelativeToolTip": "Notes\\SimpleNotes.csproj",
+              "ViewState": "AgIAABQAAAAAAAAAAAAcwB4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-14T23:12:40.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
               "Title": "NotePage.xaml.cs",
               "DocumentMoniker": "C:\\git\\maui\\Notes\\Notes\\Views\\NotePage.xaml.cs",
               "RelativeDocumentMoniker": "Notes\\Views\\NotePage.xaml.cs",
@@ -241,7 +239,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "NotePage.xaml",
               "DocumentMoniker": "C:\\git\\maui\\Notes\\Notes\\Views\\NotePage.xaml",
               "RelativeDocumentMoniker": "Notes\\Views\\NotePage.xaml",
@@ -253,7 +251,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "AllNotesPage.xaml.cs",
               "DocumentMoniker": "C:\\git\\maui\\Notes\\Notes\\Views\\AllNotesPage.xaml.cs",
               "RelativeDocumentMoniker": "Notes\\Views\\AllNotesPage.xaml.cs",
@@ -265,7 +263,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "App.xaml.cs",
               "DocumentMoniker": "C:\\git\\maui\\Notes\\Notes\\Platforms\\Windows\\App.xaml.cs",
               "RelativeDocumentMoniker": "Notes\\Platforms\\Windows\\App.xaml.cs",
@@ -277,7 +275,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "tizen-manifest.xml",
               "DocumentMoniker": "C:\\git\\maui\\Notes\\Notes\\Platforms\\Tizen\\tizen-manifest.xml",
               "RelativeDocumentMoniker": "Notes\\Platforms\\Tizen\\tizen-manifest.xml",
@@ -289,7 +287,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Main.cs",
               "DocumentMoniker": "C:\\git\\maui\\Notes\\Notes\\Platforms\\Tizen\\Main.cs",
               "RelativeDocumentMoniker": "Notes\\Platforms\\Tizen\\Main.cs",
@@ -301,7 +299,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\git\\maui\\Notes\\Notes\\Platforms\\MacCatalyst\\Program.cs",
               "RelativeDocumentMoniker": "Notes\\Platforms\\MacCatalyst\\Program.cs",
@@ -313,7 +311,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "AppDelegate.cs",
               "DocumentMoniker": "C:\\git\\maui\\Notes\\Notes\\Platforms\\MacCatalyst\\AppDelegate.cs",
               "RelativeDocumentMoniker": "Notes\\Platforms\\MacCatalyst\\AppDelegate.cs",
@@ -325,7 +323,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\git\\maui\\Notes\\Notes\\Platforms\\iOS\\Program.cs",
               "RelativeDocumentMoniker": "Notes\\Platforms\\iOS\\Program.cs",
@@ -337,7 +335,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "AppDelegate.cs",
               "DocumentMoniker": "C:\\git\\maui\\Notes\\Notes\\Platforms\\iOS\\AppDelegate.cs",
               "RelativeDocumentMoniker": "Notes\\Platforms\\iOS\\AppDelegate.cs",
@@ -349,7 +347,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "MainApplication.cs",
               "DocumentMoniker": "C:\\git\\maui\\Notes\\Notes\\Platforms\\Android\\MainApplication.cs",
               "RelativeDocumentMoniker": "Notes\\Platforms\\Android\\MainApplication.cs",
@@ -361,7 +359,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "MainActivity.cs",
               "DocumentMoniker": "C:\\git\\maui\\Notes\\Notes\\Platforms\\Android\\MainActivity.cs",
               "RelativeDocumentMoniker": "Notes\\Platforms\\Android\\MainActivity.cs",
@@ -373,7 +371,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "AppShell.xaml.cs",
               "DocumentMoniker": "C:\\git\\maui\\Notes\\Notes\\AppShell.xaml.cs",
               "RelativeDocumentMoniker": "Notes\\AppShell.xaml.cs",
@@ -385,7 +383,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "App.xaml.cs",
               "DocumentMoniker": "C:\\git\\maui\\Notes\\Notes\\App.xaml.cs",
               "RelativeDocumentMoniker": "Notes\\App.xaml.cs",
@@ -397,7 +395,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\git\\maui\\Notes\\Notes\\App.xaml",
               "RelativeDocumentMoniker": "Notes\\App.xaml",
@@ -409,7 +407,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "MauiProgram.cs",
               "DocumentMoniker": "C:\\git\\maui\\Notes\\Notes\\MauiProgram.cs",
               "RelativeDocumentMoniker": "Notes\\MauiProgram.cs",
@@ -445,7 +443,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "app.manifest",
               "DocumentMoniker": "C:\\git\\maui\\Notes\\Notes\\Platforms\\Windows\\app.manifest",
               "RelativeDocumentMoniker": "Notes\\Platforms\\Windows\\app.manifest",
@@ -454,6 +452,10 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001203|",
               "WhenOpened": "2024-11-12T23:55:08.538Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         },

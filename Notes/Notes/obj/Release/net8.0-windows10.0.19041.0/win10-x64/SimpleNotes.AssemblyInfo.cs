@@ -19,7 +19,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("Add your notes")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("2.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("2.0+daa7d70a1d99728f5dddbebcb69b525953bde376")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("2.0+537e2d67d92d5950a222e2428c1d874073c1918e")]
 [assembly: System.Reflection.AssemblyProductAttribute("SimpleNotes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SimpleNotes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("2.0.0.0")]
