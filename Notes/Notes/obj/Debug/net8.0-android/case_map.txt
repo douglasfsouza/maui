@@ -1,3 +1,0 @@
-images\dev_icon;images\dev_icon
-images\dotnet_bot;images\dotnet_bot
-raw\aboutassets;raw\AboutAssets

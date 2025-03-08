@@ -1,1 +1,0 @@
-C:\git\maui\ExpenseEntries\ExpenseEntries\ExpenseEntries.csproj;x64

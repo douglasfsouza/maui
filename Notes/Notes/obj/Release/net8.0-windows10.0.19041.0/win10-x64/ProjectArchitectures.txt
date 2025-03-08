@@ -1,1 +1,0 @@
-c:\git\Maui\Notes\Notes\SimpleNotes.csproj;x64
