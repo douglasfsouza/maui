@@ -12,7 +12,8 @@ Na solução, click com botão direito no projeto e abrir no terminal:
 	 -keysize define o tamanho da chave
 	 -validity indica a quantidade de dias para a validade da chave
 	 ex: keytool -genkeypair -v -keystore AsciiTable.keystore -alias AsciiTable -keyalg RSA -keysize 2048 -validity 10000
-	     vai pedir para criar uma senha: @sciiTableDGS, $impleNotesDGS
+	     keytool -genkeypair -v -keystore MemoryGame.keystore -alias MemoryGame -keyalg RSA -keysize 2048 -validity 10000
+	     vai pedir para criar uma senha: @sciiTableDGS, $impleNotesDGS, M&moryGameDGS
 Publicar:
    Abrir as propriedades do projeto
        Android
@@ -38,6 +39,18 @@ Alteracoes:
 Area de toque:
         
   não pode ter altura menor que 48dp ex: HeightRequest="50"
+  
+Erros:
+  - Nao abre o app em modo Debug
+     r: Informar o 'Target Android Framework' nas propriedades do projeto
+     caminho:
+       Application\General\Adroid Targets
+  -
+Images:
+   - Icons:
+       Criar um png ou jpg (tamanho 512 x 512 px) e converter em svg
+   - Splash:
+      <MauiSplashScreen Include="Resources\Splash\splash.svg" Color="#826400" BaseSize="800,300" Resize="True" />
 	   
 	   
 	   

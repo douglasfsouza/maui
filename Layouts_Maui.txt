@@ -1,0 +1,35 @@
+Stack layout
+  - Orientation
+     * vertical (padrao)
+	 * horizontal
+  - Spacing
+     * o espaco entre cada view
+  - Margin
+     * a distancia entre um elemento e seus elementos adjacentes
+  - Para as views:
+     * VerticalOptions
+     * HorizontalOptions - pode usar tanto no pai stacklayout quanto nas views filhas
+         - Start
+         - End
+         - Center
+		 - Fill (padrao)
+
+Grid
+   - Margin
+   - RowSpacing
+   - Padding
+   - ColumnSpan -> Para mesclar colunas
+   
+   ex:
+   - <Grid.RowDefinitions>
+       <RowDefinition Height="Auto" />   
+	   <RowDefinition Height=".5*" />
+	 </Grid.RowDefinitions>
+	   
+	 <Label Grid.Row="0" Grid.Column="0" Text="Ano:" BackgroundColor="Grey"/>
+	 
+FlexLayout
+
+AbsoluteLayout
+		 
+	 
